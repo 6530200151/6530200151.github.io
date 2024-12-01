@@ -1,6 +1,10 @@
 # 6530200151.github.io
 - Nutparit Somboon
-  -  nag 
+  -  nag
+  -  21 years old
+  -  6530200151
+  -  computer science
+  -  kasetsart university
  ![me](img001/456662.jpg)
 
      [vocabulary](whiteboxtesting.md)
