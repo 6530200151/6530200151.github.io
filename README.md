@@ -7,4 +7,4 @@
   -  kasetsart university
  ![me](img001/456662.jpg)
 
-     [vocabulary](whiteboxtesting.md)
+     [vocabulary](white-box-testing.md)
