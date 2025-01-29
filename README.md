@@ -10,3 +10,4 @@
     - [vocabulary](White-box-testing.md)
     - [e-card](e-card.md)
     - [integrity](integrity.md)
+    - [board-game](board-game.md)
