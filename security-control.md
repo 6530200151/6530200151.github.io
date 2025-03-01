@@ -1,6 +1,6 @@
 <h1>&#128274; Security Control</h1>
 
-![Alt text](img001/riot.png)
+![Alt text](img001/riot.jpg)
 
 
 <h2>&#128126; Riot Vanguard</h2>
