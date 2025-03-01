@@ -11,3 +11,4 @@
     - [e-card](e-card.md)
     - [integrity](integrity.md)
     - [board-game](board-game.md)
+    - [security-control](security-control.md)
