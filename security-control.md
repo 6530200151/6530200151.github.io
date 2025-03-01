@@ -1,4 +1,4 @@
-<h1>&#128274; Security Control</h1>
+Security Control</h1>
 
 ![Alt text](img001/riot.jpg)
 
