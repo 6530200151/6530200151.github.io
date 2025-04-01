@@ -12,3 +12,4 @@
     - [integrity](integrity.md)
     - [board-game](board-game.md)
     - [security-control](security-control.md)
+    - [pao-elections](pao-elections.md)
